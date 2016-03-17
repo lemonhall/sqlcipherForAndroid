@@ -240,3 +240,7 @@ https://bintray.com/bintray/jcenter/net.zetetic%3Aandroid-database-sqlcipher/3.3
 
 以及，测试iOS版本
 
+
+12、示例工程
+
+https://github.com/lemonhall/sqlcipherForAndroid
